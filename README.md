@@ -1,7 +1,7 @@
 # hovergames2_ubuntu_image
 SD card image for hovergames2
 
-![Hovergames Screen](http://www.droidifi.com/hovergames2.png)
+![Hovergames Screen](https://github.com/droidifi/hovergames2_ubuntu_image/blob/main/hovergames2.png)
 
 Ubuntu "Focal" 20.04.1 LTS
 
