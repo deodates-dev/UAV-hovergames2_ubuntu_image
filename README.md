@@ -20,8 +20,6 @@ Run "expandfs" to expand filesystem
 For Wi-Fi client connections edit the file 
 /etc/wpa_supplicant/wpa_supplicant.conf
 
-To install ROS see instructions here:
-
 https://index.ros.org/doc/ros2/Installation/Crystal/Linux-Install-Binary/#add-the-ros-2-apt-repository
 
 Default logins ubuntu:navq and root:navq
